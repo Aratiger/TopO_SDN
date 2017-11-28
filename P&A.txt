@@ -1,0 +1,4 @@
+//问题：在安装maven时遇见，找不到主类的情况
+/*解决方法：上述情况基于mac端使用第三方终端如iterm、iterm2,在PATH添加相应主类环境变量即可。
+**参照https://stackoverflow.com/questions/18428374/commands-not-found-on-zsh
+//
